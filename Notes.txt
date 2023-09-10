@@ -1,0 +1,2 @@
+Workaround to install rdbms-connect azure extension:
+az extension add --name rdbms-connect --version 1.0.3
